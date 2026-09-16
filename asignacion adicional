@@ -48,4 +48,4 @@ from bot_logic import gen_pass
 
 print(gen_pass(10))
 
-bot.run("MTUwNzc4NjM4NDkwMTkzNTEwNA.GrnIa_.nVWwHT_OUrh10uU4xX2azTkRvv7YcrcGFlMCrs")
+bot.run("a")
